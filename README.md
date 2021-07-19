@@ -1,7 +1,5 @@
 # Exercise: HTTP Request Components
 
-Clone the exercise from the [starter].
-
 Based on the following scenarios discuss and determine what the HTTP requests
 components should be in each scenario.
 
@@ -14,7 +12,7 @@ include:
   - Host: google.com (OPTIONAL)
 - body: none
 
-> The `Host` header is optional is in this exercise.
+> The `Host` header is optional in this exercise.
 
 The URI and body don't have to correct. Instead, make up your own URI or
 description of the body contents that would make sense for the scenario.
@@ -28,5 +26,3 @@ description of the body contents that would make sense for the scenario.
 5. Sell one of your stocks on Robinhood
 6. Browse GIPHY for a cute puppy gif
 7. Send a picture to a friend on Snapchat
-
-[starter]: https://github.com/appacademy/practice-for-week-08-http-request-components
